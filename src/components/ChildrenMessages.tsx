@@ -26,7 +26,7 @@ const childrenMessages: ChildMessage[] = [
   {
     id: 4,
     name: 'Hamza',
-    message: 'Bon anniversaire Papa ! Nous t\'aimons beaucoup.',
+    message: 'Bon anniversaire papa 🎉\ Que du bonheur et de la santé pour toi . Plus qu’un an avant de pouvoir rejouer au tennis !',
   },
   {
     id: 5,
