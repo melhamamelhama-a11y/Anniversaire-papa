@@ -11,12 +11,12 @@ const childrenMessages: ChildMessage[] = [
   {
     id: 1,
     name: 'Amine',
-    message: 'Papa, tu es le meilleur ! Merci pour tous les souvenirs magnifiques.',
+    message: 'Cher Papa, Joyeux Anniversaire🎉\n !! Toujous en mode non-stop😄\n Avec le pris de l\'essence ⛽️\n, je suis sûr que t\'a une alerte ‼️\n  Mais comme elle... plus ça monte, plus ça vaut cher 😎\n Joyeux Anniversaire PAPA .',
   },
   {
     id: 2,
     name: 'Amel',
-    message: 'Joyeux anniversaire Papa 🎉\nJe te souhaite plein de bonheur, de santé et de beaux moments aujourd\'hui et toute l\'année. Profite bien de ta journée, je t\'aime ❤️',
+    message: 'Joyeux anniversaire Papa 🎉\nJe te souhaite plein de bonheur, de santé et de beaux moments aujourd\'hui et toute l\'année. Profite bien de ta journée ❤️',
   },
   {
     id: 3,
