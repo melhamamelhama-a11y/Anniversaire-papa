@@ -36,7 +36,7 @@ const childrenMessages: ChildMessage[] = [
   {
     id: 6,
     name: 'Kenza',
-    message: 'Mon amour, joyeux anniversaire ! Merci pour tous ces beaux moments ensemble. Je t\'aime ❤️',
+    message: 'Cher Hamid,je te souhaite un merveilleux anniversaire entouré de personnes qui t'aiment et j'espère qu'on pourra partager tous les suivants ensemble! InshaaAllah. Qu'Allah te préserve et te donne la santé et l'amour des tiens le plus longtemps possible. Gros bisous!',
   },
 ];
 
