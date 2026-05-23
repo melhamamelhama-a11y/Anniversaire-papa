@@ -21,7 +21,7 @@ const childrenMessages: ChildMessage[] = [
   {
     id: 3,
     name: 'Manel',
-    message: 'Papa, tu es notre héros. Merci d\'être toujours là pour nous.',
+    message: 'joyeux anniversaire mon VIEUX! J\'espère que tu garderas toujours un esprit de jeune et que ta vie sera remplit de bonheur😘\!',
   },
   {
     id: 4,
@@ -36,7 +36,7 @@ const childrenMessages: ChildMessage[] = [
   {
     id: 6,
     name: 'Kenza',
-    message: 'Cher Hamid,je te souhaite un merveilleux anniversaire entouré de personnes qui t'aiment et j'espère qu'on pourra partager tous les suivants ensemble! InshaaAllah. Qu'Allah te préserve et te donne la santé et l'amour des tiens le plus longtemps possible. Gros bisous!',
+    message: 'Cher Hamid,je te souhaite un merveilleux anniversaire entouré de personnes qui t\'aiment et j\'espère qu\'on pourra partager tous les suivants ensemble! InshaaAllah. Qu'Allah te préserve et te donne la santé et l\'amour des tiens le plus longtemps possible. Gros bisous!',
   },
 ];
 
