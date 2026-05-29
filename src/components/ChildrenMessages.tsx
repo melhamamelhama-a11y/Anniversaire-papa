@@ -31,7 +31,7 @@ const childrenMessages: ChildMessage[] = [
   {
     id: 5,
     name: 'Myriam',
-    message: 'Papa, merci pour ton amour et ta sagesse. Joyeux anniversaire !',
+    message: 'Papa, merci pour l\'amour et la sagesse que tu as partagé autour de toi, depuis maintenant 58 ANS. Joyeux anniversaire !',
   },
   {
     id: 6,
