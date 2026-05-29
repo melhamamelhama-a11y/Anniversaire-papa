@@ -246,3 +246,4 @@ export default defineConfig({
 //
 // force rebuild clean - remove old vite cache references
 //
+console.log("force rebuild")
